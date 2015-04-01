@@ -1,0 +1,19 @@
+<section data-role="portfolio-modal" data-type="{{item.type}}">
+	<figure class="g--half">
+		<figure ng-if="item.type == 'mobile'">
+			<div class="inner">
+				<div class="mobile">
+					<div class="wrapper">
+						<div class="img" itemprop="thumbnailUrl" style="background-image: url({{item.featuredImage}});"></div>
+					</div>
+				</div>
+			</div>
+		</figure>
+		<img ng-if="item.type == 'default'" ng-src="{{item.featuredImage}}" alt="{{item.title}}" itemprop="thumbnailUrl">
+	</figure>
+	<figcaption class="g--half g--last">
+		<h1>{{item.title}}</h1>
+		<p><strong>Client: </strong>{{item.client}}</p>
+		<p>{{item.caption}}</p>
+	</figcaption>
+</section>

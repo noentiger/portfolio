@@ -1,0 +1,70 @@
+/**
+*
+* Button
+*
+**/
+
+.button {
+  display: inline-block;
+  padding: (($lineHeight / 2) - 1) 32px;
+  margin-bottom: $lineHeight / 2;
+  margin-top: $lineHeight / 2;
+  min-height: $lineHeight;
+
+  text-align: center;
+
+  font-family: $fontHighlight;
+  font-weight: 600;
+  text-decoration: none;
+
+  outline: 0;
+
+  transition: none;
+
+  border: 2px solid $colorGreen;
+  border-radius: 40px;
+  background: transparent;
+  color: $colorGreen;
+  letter-spacing: 1px;
+  font-size: 18px;
+  -webkit-tap-highlight-color: transparent;
+  transition: background-color 0.3s, color 0.3s, width 0.3s, border-width 0.3s, border-color 0.3s;
+  -webkit-transition: background-color 0.3s, color 0.3s, width 0.3s, border-width 0.3s, border-color 0.3s;
+
+  &:hover {
+    background: $colorGreen;
+    color: #ffffff;
+    text-decoration: none;
+  }
+}
+
+// Mixin to create buttons
+@mixin style-button($color, $textColor, $isInverted: false) {
+
+  background: $color;
+  color: $textColor;
+
+  @if $isInverted { border-color: transparent;}
+}
+
+
+.button--primary {
+  @extend .button;
+  @include style-button($colorGreen, #ffffff);
+
+  &:hover {
+    background: $colorGreenSecondary;
+    border-color: $colorGreenSecondary;
+  }
+
+}
+
+.button--secondary {
+  @extend .button;
+  @include style-button(#ffffff, $colorGreen);
+}
+
+.button--secondary-variation {
+  @extend .button;
+  @include style-button(#ffffff, $colorGreen, true);
+}

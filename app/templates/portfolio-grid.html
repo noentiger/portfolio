@@ -1,0 +1,25 @@
+<section ng-controller="PortfolioController" id="" data-role="portfolio" itemscope itemtype="http://schema.org/ImageGallery">
+	<article 
+	class="item {{item.size}}" 
+	ng-repeat="item in items | filter:SearchItems"
+	data-type="{{item.type}}"
+	ng-init="sectionIndex = $index"
+	ng-click="viewPortfolioItem(sectionIndex);"
+	data-sr="enter top"
+	on-last-repeat>
+		<figure>
+			<figure ng-if="item.type == 'mobile'">
+				<div class="inner">
+					<div class="mobile">
+						<div class="wrapper">
+							<div class="img" itemprop="thumbnailUrl" style="background-image: url({{item.featuredImage}});"></div>
+						</div>
+					</div>
+				</div>
+			</figure>
+			<img ng-if="item.type == 'default'" ng-src="{{item.featuredImage}}" alt="{{item.title}}" itemprop="thumbnailUrl">
+		</figure>
+		<figcaption itemprop="description">
+		</figcaption>
+	</article>
+</section>

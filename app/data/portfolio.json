@@ -1,0 +1,226 @@
+[
+    {
+        "title": "Drømmekroppen 2014",
+        "caption": "Mobile web-application to share photos of your accomplishments at the gym and become 'Drømmekroppen 2014'.",
+        "featuredImage": "images/portfolio/drommekroppen-2014-mobile.jpg",
+        "client": "Proteinfabrikken",
+        "type": "mobile",
+        "size": "w1"
+    },
+    {
+        "title": "Drømmekroppen 2014",
+        "caption": "Facebook/Web application to share photos of your accomplishments at the gym and become 'Drømmekroppen 2014'.",
+        "featuredImage": "images/portfolio/drommekroppen.jpg",
+        "client": "Proteinfabrikken",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Summer Calendar",
+        "caption": "Win nice prizes from ELIXIA everyday",
+        "featuredImage": "images/portfolio/elixia.jpg",
+        "client": "SATS/ELIXIA",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "My apps",
+        "caption": "Manage all your apps easily from one platform",
+        "featuredImage": "images/portfolio/marketing-room-myapps.jpg",
+        "client": "Inhouse",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Measure your response",
+        "caption": "Collect leads and follow the progress of your campaigns",
+        "featuredImage": "images/portfolio/marketing-room-response.jpg",
+        "client": "Inhouse",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Web to mobile converter",
+        "caption": "Beard ennui vegan forage bicycle rights selvage",
+        "featuredImage": "images/portfolio/marketing-room-response-closeup.jpg",
+        "client": "Inhouse",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Timeline",
+        "caption": "See recent activity on your brand and respond to your customers instantly",
+        "featuredImage": "images/portfolio/marketing-room-timeline.jpg",
+        "client": "Inhouse",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "The big picture",
+        "caption": "Measure the evolution over time",
+        "featuredImage": "images/portfolio/marketing-room-analytics.jpg",
+        "client": "Inhouse",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Appstore",
+        "caption": "Buy apps on the fly and use them in your marketing",
+        "featuredImage": "images/portfolio/marketing-room-buy.jpg",
+        "client": "Inhouse",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Pack your bags!",
+        "caption": "Pack your bags and go on ski tour. Drag and drop what you want to pack in your bag.",
+        "featuredImage": "images/portfolio/pakk-birkensekken-2.jpg",
+        "client": "Birkenbeiner",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Raw",
+        "caption": "Viral campaign to invite your friends for a sushi dinner.",
+        "featuredImage": "images/portfolio/ra-sushi.jpg",
+        "client": "Rå Sushi",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Illustrations",
+        "caption": "",
+        "featuredImage": "images/portfolio/illustrations.svg",
+        "client": "Birkenbeiner",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "The Recipe",
+        "caption": "A recipe wallpaper of the human body",
+        "featuredImage": "images/portfolio/ingredients.jpg",
+        "client": "None",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Marketing Room",
+        "caption": "An interactive dashboard for managing your brand in social and digital media.",
+        "featuredImage": "images/portfolio/marketing-room-dashboard.jpg",
+        "client": "Inhouse",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "LOOP",
+        "caption": "A project management system to create a better cooperation between colleagues.",
+        "featuredImage": "images/portfolio/loop.jpg",
+        "client": "Inhouse",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Solid Response",
+        "caption": "Manage your brands campaigns, follow the evolution and measure your ROI.",
+        "featuredImage": "images/portfolio/solid-response.jpg",
+        "client": "Inhouse",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Advent calendar",
+        "caption": "An advent calendar app where users can register to create their own",
+        "featuredImage": "images/portfolio/julkalender-mobil.jpg",
+        "client": "Inhouse",
+        "type": "mobile",
+        "size": "w1"
+    },
+    {
+        "title": "Webshop",
+        "caption": "",
+        "featuredImage": "images/portfolio/smartlager.jpg",
+        "client": "Smartlager",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Raw",
+        "caption": "Viral campaign to invite your friends for a sushi dinner.",
+        "featuredImage": "images/portfolio/ra-sushi-mobile.jpg",
+        "client": "Rå Sushi",
+        "type": "mobile",
+        "size": "w1"
+    },
+    {
+        "title": "Shop til u drop",
+        "caption": "An interactive game where the user must capture protein supplements but avoid sweets",
+        "featuredImage": "images/portfolio/pf-shop-til-u-drop-2.jpg",
+        "client": "Proteinfabrikken",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Shop til u drop",
+        "caption": "An interactive game where the user must capture protein supplements but avoid sweets",
+        "featuredImage": "images/portfolio/pf-shop-til-u-drop.jpg",
+        "client": "Proteinfabrikken",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Keep him happy!",
+        "caption": "An interactive game that involves you should fill the box with as much products as possible so the robot stays happy",
+        "featuredImage": "images/portfolio/pf-fabrikken.jpg",
+        "client": "Proteinfabrikken",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Black Friday",
+        "caption": "Play the memory game and get great deals on the Black Friday campaign.",
+        "featuredImage": "images/portfolio/pf-memory.png",
+        "client": "Proteinfabrikken",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Selfie",
+        "caption": "Take a selfie in the wild and let the audience vote for the best picture",
+        "featuredImage": "images/portfolio/safari-selfie-expert-mobil.jpg",
+        "client": "Expert",
+        "type": "mobile",
+        "size": "w1"
+    },
+    {
+        "title": "Save for something",
+        "caption": "Use the calculator to see how much and for how long you need to save to get the item on the picture",
+        "featuredImage": "images/portfolio/sparebank1.jpg",
+        "client": "Sparebank1",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Fore!",
+        "caption": "Register your handicap in golf and win an amazing golf trip for two.",
+        "featuredImage": "images/portfolio/target-26.jpg",
+        "client": "Norges Golfförbund",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Bake your own pizza",
+        "caption": "Drag and drop the ingredients to cook your own pizza",
+        "featuredImage": "images/portfolio/apetina-gor-din-egen-pizza.jpg",
+        "client": "Arla Apetina",
+        "type": "default",
+        "size": "w1"
+    },
+    {
+        "title": "Invite to dinner",
+        "caption": "Viral campaign to invite your friends for a dinner.",
+        "featuredImage": "images/portfolio/castello-fyll-ett-bord.jpg",
+        "client": "Arla Castello",
+        "type": "default",
+        "size": "w1"
+    }
+]
