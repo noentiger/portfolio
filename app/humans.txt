@@ -3,12 +3,12 @@
 
 # TEAM
 
-  <name> -- <role> -- <twitter>
+  Kim Wijk - Creative Director - @kimwijk
 
 # THANKS
 
-  <name>
+  Google
 
 # TECHNOLOGY COLOPHON
 
-  HTML5, CSS3
+  HTML5, CSS3, Angular, Gulp, Node JS
