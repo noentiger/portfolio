@@ -80,6 +80,13 @@ gulp.task('fonts', function () {
     .pipe($.size({title: 'fonts'}));
 });
 
+// Copy app-data to dist
+gulp.task('app-data', function () {
+  return gulp.src(['app/data/**'])
+    .pipe(gulp.dest('dist/data'))
+    .pipe($.size({title: 'app-data'}));
+});
+
 // Compile and automatically prefix stylesheets
 gulp.task('styles', function () {
   // For best performance, don't add Sass partials to `gulp.src`
@@ -176,7 +183,7 @@ gulp.task('serve:dist', ['default'], function () {
 
 // Build production files, the default task
 gulp.task('default', ['clean'], function (cb) {
-  runSequence('styles', ['templateCache', 'jshint', 'html', 'images', 'fonts', 'copy'], cb);
+  runSequence('styles', ['templateCache', 'html', 'images', 'fonts', 'copy', 'app-data'], cb);
 });
 
 // Run PageSpeed Insights
