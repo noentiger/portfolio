@@ -33,13 +33,6 @@
   <body ng-controller="MainCtrl">
     <header class="app-bar promote-layer">
       <div class="app-bar-container">
-        
-        <div class="menu material-design-hamburger">
-          <button class="material-design-hamburger__icon">
-            <span class="material-design-hamburger__layer"></span>
-          </button>
-        </div>
-
         <span class="logo">
           <?xml version="1.0" encoding="utf-8"?>
           <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -69,34 +62,34 @@
         <article class="centered">
           <h1 class="animated fadeInDown"><strong>Hello</strong>, I'm Kim</h1> <p class="xlarge animated fadeInLeft">I design and code</p>
           <div class="g--half g--centered centered">
-            <button ng-click="clickToOpen()" type="button" class="button--primary">Contact me</button>
+            <a href="mailto:kim.wijk@gmail.com" type="button" class="button--primary" aria-label="Contact me">Contact me</a>
           </div>
         </article>
       </article>
     </section>
-    
-    <brag></brag>
 
     <portfolio></portfolio>
 
+    <brag></brag>
+
     <main>
-
-      <clients></clients>
-      
-      <section id="contact">
-        <h3 class="xxlarge text-divider centered" data-sr="wait 0.2s then enter bottom"><strong>Like my style?</strong></h3>
-        <p class="page-header__excerpt g-wide--push-1 g-wide--pull-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, optio, ad, voluptates repudiandae at excepturi error delectus explicabo nulla eum provident quibusdam ipsum sapiente culpa sequi quia unde fuga id.</p>
-        <div class="g--half g--centered centered">
-          <button type="button" class="button--primary">Let's make something</button>
-        </div>
-      </section>
-
+      <clients></clients>      
     </main>
 
     <footer>
-      <with-love></with-love>
-    </footer>
 
+      <section id="contact">
+        <h3 class="xxlarge centered" data-sr="wait 0.2s then enter bottom"><strong>Like my style?</strong></h3>
+        <p class="page-header__excerpt g-wide--push-1 g-wide--pull-1"></p>
+        <div class="g--half g--centered centered">
+          <a href="mailto:kim.wijk@gmail.com" type="button" class="button--primary" aria-label="Contact me">Contact me</a>
+        </div>
+      </section>
+      
+    </footer>
+    
+    <with-love></with-love>
+    
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
 
     <!-- build:js scripts/main.min.js -->
