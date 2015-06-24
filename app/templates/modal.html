@@ -12,8 +12,11 @@
 		<img ng-if="item.type == 'default'" ng-src="{{item.featuredImage}}" alt="{{item.title}}" itemprop="thumbnailUrl">
 	</figure>
 	<figcaption class="g--half g--last">
-		<h1>{{item.title}}</h1>
+		<h2>{{item.title}}</h2>
 		<p><strong>Client: </strong>{{item.client}}</p>
 		<p>{{item.caption}}</p>
+		<div class="tags-container">
+			<span class="tag" ng-repeat="tag in item.tags" aria-label="{{tag}}">{{tag}}</span>
+		</div>
 	</figcaption>
 </section>

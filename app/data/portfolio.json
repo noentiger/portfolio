@@ -1,19 +1,21 @@
 [
     {
         "title": "Drømmekroppen 2014",
-        "caption": "Mobile web-application to share photos of your accomplishments at the gym and become 'Drømmekroppen 2014'.",
+        "caption": "Mobile web-application to share photos of your accomplishments at the gym and become \"Drømmekroppen 2014\".",
         "featuredImage": "images/portfolio/drommekroppen-2014-mobile.jpg",
         "client": "Proteinfabrikken",
         "type": "mobile",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Drømmekroppen 2014",
-        "caption": "Facebook/Web application to share photos of your accomplishments at the gym and become 'Drømmekroppen 2014'.",
+        "caption": "Facebook/Web application to share photos of your accomplishments at the gym and become \"Drømmekroppen 2014\".",
         "featuredImage": "images/portfolio/drommekroppen.jpg",
         "client": "Proteinfabrikken",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Summer Calendar",
@@ -21,7 +23,8 @@
         "featuredImage": "images/portfolio/elixia.jpg",
         "client": "SATS/ELIXIA",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Programming"]
     },
     {
         "title": "My apps",
@@ -29,7 +32,8 @@
         "featuredImage": "images/portfolio/marketing-room-myapps.jpg",
         "client": "Inhouse",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Measure your response",
@@ -37,7 +41,8 @@
         "featuredImage": "images/portfolio/marketing-room-response.jpg",
         "client": "Inhouse",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Web to mobile converter",
@@ -45,7 +50,8 @@
         "featuredImage": "images/portfolio/marketing-room-response-closeup.jpg",
         "client": "Inhouse",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Design", "Creative Direction", "Programming", "UX", "API"]
     },
     {
         "title": "Timeline",
@@ -53,7 +59,8 @@
         "featuredImage": "images/portfolio/marketing-room-timeline.jpg",
         "client": "Inhouse",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Programming"]
     },
     {
         "title": "The big picture",
@@ -61,7 +68,8 @@
         "featuredImage": "images/portfolio/marketing-room-analytics.jpg",
         "client": "Inhouse",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Appstore",
@@ -69,7 +77,8 @@
         "featuredImage": "images/portfolio/marketing-room-buy.jpg",
         "client": "Inhouse",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Pack your bags!",
@@ -77,7 +86,8 @@
         "featuredImage": "images/portfolio/pakk-birkensekken-2.jpg",
         "client": "Birkenbeiner",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Design", "Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Raw",
@@ -85,7 +95,8 @@
         "featuredImage": "images/portfolio/ra-sushi.jpg",
         "client": "Rå Sushi",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming"]
     },
     {
         "title": "Illustrations",
@@ -93,7 +104,8 @@
         "featuredImage": "images/portfolio/illustrations.svg",
         "client": "Birkenbeiner",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Design", "Creative Direction"]
     },
     {
         "title": "The Recipe",
@@ -101,7 +113,8 @@
         "featuredImage": "images/portfolio/ingredients.jpg",
         "client": "None",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Design"]
     },
     {
         "title": "Marketing Room",
@@ -109,7 +122,8 @@
         "featuredImage": "images/portfolio/marketing-room-dashboard.jpg",
         "client": "Inhouse",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "LOOP",
@@ -117,7 +131,8 @@
         "featuredImage": "images/portfolio/loop.jpg",
         "client": "Inhouse",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Design", "Programming", "UX"]
     },
     {
         "title": "Solid Response",
@@ -125,7 +140,8 @@
         "featuredImage": "images/portfolio/solid-response.jpg",
         "client": "Inhouse",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Design", "Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Advent calendar",
@@ -133,7 +149,8 @@
         "featuredImage": "images/portfolio/julkalender-mobil.jpg",
         "client": "Inhouse",
         "type": "mobile",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Webshop",
@@ -141,7 +158,8 @@
         "featuredImage": "images/portfolio/smartlager.jpg",
         "client": "Smartlager",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Design", "Creative Direction", "UX"]
     },
     {
         "title": "Raw",
@@ -149,7 +167,8 @@
         "featuredImage": "images/portfolio/ra-sushi-mobile.jpg",
         "client": "Rå Sushi",
         "type": "mobile",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Shop til u drop",
@@ -157,7 +176,8 @@
         "featuredImage": "images/portfolio/pf-shop-til-u-drop-2.jpg",
         "client": "Proteinfabrikken",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Shop til u drop",
@@ -165,7 +185,8 @@
         "featuredImage": "images/portfolio/pf-shop-til-u-drop.jpg",
         "client": "Proteinfabrikken",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Keep him happy!",
@@ -173,7 +194,8 @@
         "featuredImage": "images/portfolio/pf-fabrikken.jpg",
         "client": "Proteinfabrikken",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Black Friday",
@@ -181,7 +203,8 @@
         "featuredImage": "images/portfolio/pf-memory.png",
         "client": "Proteinfabrikken",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Selfie",
@@ -189,7 +212,8 @@
         "featuredImage": "images/portfolio/safari-selfie-expert-mobil.jpg",
         "client": "Expert",
         "type": "mobile",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Programming", "UX"]
     },
     {
         "title": "Save for something",
@@ -197,7 +221,8 @@
         "featuredImage": "images/portfolio/sparebank1.jpg",
         "client": "Sparebank1",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Design", "Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Fore!",
@@ -205,15 +230,17 @@
         "featuredImage": "images/portfolio/target-26.jpg",
         "client": "Norges Golfförbund",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Design", "Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Bake your own pizza",
-        "caption": "Drag and drop the ingredients to cook your own pizza",
+        "caption": "Drag and drop the ingredients to bake your own pizza",
         "featuredImage": "images/portfolio/apetina-gor-din-egen-pizza.jpg",
         "client": "Arla Apetina",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     },
     {
         "title": "Invite to dinner",
@@ -221,6 +248,7 @@
         "featuredImage": "images/portfolio/castello-fyll-ett-bord.jpg",
         "client": "Arla Castello",
         "type": "default",
-        "size": "w1"
+        "size": "w1",
+        "tags": ["Creative Direction", "Programming", "UX"]
     }
 ]

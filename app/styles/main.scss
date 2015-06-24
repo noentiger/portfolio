@@ -418,6 +418,12 @@ section#mobile-grid {
 
 }
 
+.logo {
+  polygon {
+    fill: $colorGrayDark;
+  }
+}
+
 [data-role="hello"] {
   color: #fff;
   background: $colorGrayLighter;
@@ -434,8 +440,8 @@ section#mobile-grid {
 }
 
 footer {
-  background: $colorGrayBackground;
-  color: $colorGrayDark;
+  background: $colorGrayLighter;
+  color: #fff;
   padding: 3em;
   margin: 2em 0 0 0;
 }
@@ -646,6 +652,21 @@ footer {
 
   100% {
     transform: scale(1);
+  }
+}
+
+/* Tags Container */
+.tags-container {
+  margin-top: 2em;
+
+  .tag {
+    padding: .5em;
+    background: #eee;
+    margin: .5em;
+
+    &:first-child {
+      margin-left: 0;
+    }
   }
 }
 
