@@ -6,7 +6,7 @@
         "client": "Proteinfabrikken",
         "type": "mobile",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX", "Facebook", "Instagram"]
     },
     {
         "title": "Drømmekroppen 2014",
@@ -15,7 +15,7 @@
         "client": "Proteinfabrikken",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX", "Facebook", "Instagram"]
     },
     {
         "title": "Summer Calendar",
@@ -24,7 +24,7 @@
         "client": "SATS/ELIXIA",
         "type": "default",
         "size": "w1",
-        "tags": ["Programming"]
+        "tags": ["Programming", "Front End", "Back End", "Facebook"]
     },
     {
         "title": "My apps",
@@ -33,7 +33,7 @@
         "client": "Inhouse",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX", "Software Development"]
     },
     {
         "title": "Measure your response",
@@ -42,16 +42,16 @@
         "client": "Inhouse",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX", "MailChimp", "Software Development"]
     },
     {
-        "title": "Web to mobile converter",
-        "caption": "Beard ennui vegan forage bicycle rights selvage",
+        "title": "Response",
+        "caption": "Follow your leads evolution",
         "featuredImage": "images/portfolio/marketing-room-response-closeup.jpg",
         "client": "Inhouse",
         "type": "default",
         "size": "w1",
-        "tags": ["Design", "Creative Direction", "Programming", "UX", "API"]
+        "tags": ["Design", "Creative Direction", "Front End", "Back End", "UX", "API"]
     },
     {
         "title": "Timeline",
@@ -60,7 +60,7 @@
         "client": "Inhouse",
         "type": "default",
         "size": "w1",
-        "tags": ["Programming"]
+        "tags": ["Front End", "Back End"]
     },
     {
         "title": "The big picture",
@@ -78,16 +78,16 @@
         "client": "Inhouse",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX"]
     },
     {
-        "title": "Pack your bags!",
+        "title": "Norwegian \"Gå på tur\"",
         "caption": "Pack your bags and go on ski tour. Drag and drop what you want to pack in your bag.",
         "featuredImage": "images/portfolio/pakk-birkensekken-2.jpg",
         "client": "Birkenbeiner",
         "type": "default",
         "size": "w1",
-        "tags": ["Design", "Creative Direction", "Programming", "UX"]
+        "tags": ["Design", "Creative Direction", "Front End", "Back End", "UX"]
     },
     {
         "title": "Raw",
@@ -96,11 +96,11 @@
         "client": "Rå Sushi",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming"]
+        "tags": ["Creative Direction", "Front End", "Back End"]
     },
     {
         "title": "Illustrations",
-        "caption": "",
+        "caption": "Pack your bags and go on ski tour. Drag and drop what you want to pack in your bag.",
         "featuredImage": "images/portfolio/illustrations.svg",
         "client": "Birkenbeiner",
         "type": "default",
@@ -123,7 +123,7 @@
         "client": "Inhouse",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX", "Social Media", "Monitoring"]
     },
     {
         "title": "LOOP",
@@ -132,7 +132,7 @@
         "client": "Inhouse",
         "type": "default",
         "size": "w1",
-        "tags": ["Design", "Programming", "UX"]
+        "tags": ["Design", "Front End", "Back End", "UX", "SCRUM", "Inhouse"]
     },
     {
         "title": "Solid Response",
@@ -141,7 +141,7 @@
         "client": "Inhouse",
         "type": "default",
         "size": "w1",
-        "tags": ["Design", "Creative Direction", "Programming", "UX"]
+        "tags": ["Design", "Creative Direction", "Front End", "Back End", "UX", "CMS"]
     },
     {
         "title": "Advent calendar",
@@ -150,11 +150,11 @@
         "client": "Inhouse",
         "type": "mobile",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX", "CMS"]
     },
     {
         "title": "Webshop",
-        "caption": "",
+        "caption": "Wordpress webshop for norwegian company",
         "featuredImage": "images/portfolio/smartlager.jpg",
         "client": "Smartlager",
         "type": "default",
@@ -168,7 +168,7 @@
         "client": "Rå Sushi",
         "type": "mobile",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX"]
     },
     {
         "title": "Shop til u drop",
@@ -177,7 +177,7 @@
         "client": "Proteinfabrikken",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX"]
     },
     {
         "title": "Shop til u drop",
@@ -186,7 +186,7 @@
         "client": "Proteinfabrikken",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX"]
     },
     {
         "title": "Keep him happy!",
@@ -195,7 +195,7 @@
         "client": "Proteinfabrikken",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX"]
     },
     {
         "title": "Black Friday",
@@ -204,7 +204,7 @@
         "client": "Proteinfabrikken",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX"]
     },
     {
         "title": "Selfie",
@@ -213,7 +213,7 @@
         "client": "Expert",
         "type": "mobile",
         "size": "w1",
-        "tags": ["Programming", "UX"]
+        "tags": ["Front End", "Back End", "UX"]
     },
     {
         "title": "Save for something",
@@ -222,7 +222,7 @@
         "client": "Sparebank1",
         "type": "default",
         "size": "w1",
-        "tags": ["Design", "Creative Direction", "Programming", "UX"]
+        "tags": ["Design", "Creative Direction", "Front End", "Back End", "UX"]
     },
     {
         "title": "Fore!",
@@ -231,7 +231,7 @@
         "client": "Norges Golfförbund",
         "type": "default",
         "size": "w1",
-        "tags": ["Design", "Creative Direction", "Programming", "UX"]
+        "tags": ["Design", "Creative Direction", "Front End", "Back End", "UX"]
     },
     {
         "title": "Bake your own pizza",
@@ -240,7 +240,7 @@
         "client": "Arla Apetina",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX"]
     },
     {
         "title": "Invite to dinner",
@@ -249,6 +249,6 @@
         "client": "Arla Castello",
         "type": "default",
         "size": "w1",
-        "tags": ["Creative Direction", "Programming", "UX"]
+        "tags": ["Creative Direction", "Front End", "Back End", "UX"]
     }
 ]

@@ -657,16 +657,12 @@ footer {
 
 /* Tags Container */
 .tags-container {
-  margin-top: 2em;
+  margin-top: 1em;
 
   .tag {
     padding: .5em;
     background: #eee;
-    margin: .5em;
-
-    &:first-child {
-      margin-left: 0;
-    }
+    margin: .5em .5em 0 0;
   }
 }
 
