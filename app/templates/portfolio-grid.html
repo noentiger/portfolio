@@ -6,20 +6,24 @@
 	ng-init="sectionIndex = $index"
 	ng-click="viewPortfolioItem(sectionIndex);"
 	data-sr="enter top"
+	itemscope
+	itemtype="http://schema.org/CreativeWork"
 	on-last-repeat>
 		<figure>
 			<figure ng-if="item.type == 'mobile'">
 				<div class="inner">
 					<div class="mobile">
 						<div class="wrapper">
-							<div class="img" itemprop="thumbnailUrl" style="background-image: url({{item.featuredImage}});"></div>
+							<div class="img" itemprop="image" style="background-image: url({{item.featuredImage}});"></div>
 						</div>
 					</div>
 				</div>
 			</figure>
-			<img ng-if="item.type == 'default'" ng-src="{{item.featuredImage}}" alt="{{item.caption}}" itemprop="thumbnailUrl">
+			<img ng-if="item.type == 'default'" ng-src="{{item.featuredImage}}" alt="{{item.caption}}" itemprop="image">
 		</figure>
-		<figcaption itemprop="description">
+		<figcaption itemprop="description" itemprop="description">
 		</figcaption>
+		<meta itemprop="author" content="Kim Wijk">
+		<meta itemprop="keywords" content="{{item.tags.join(', ')}}">
 	</article>
 </section>

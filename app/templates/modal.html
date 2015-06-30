@@ -1,22 +1,24 @@
-<section data-role="portfolio-modal" data-type="{{item.type}}">
+<section data-role="portfolio-modal" data-type="{{item.type}}" itemscope itemtype="http://schema.org/CreativeWork">
 	<figure class="g--half">
 		<figure ng-if="item.type == 'mobile'">
 			<div class="inner">
 				<div class="mobile">
 					<div class="wrapper">
-						<div class="img" itemprop="thumbnailUrl" style="background-image: url({{item.featuredImage}});"></div>
+						<div class="img" itemprop="image" style="background-image: url({{item.featuredImage}});"></div>
 					</div>
 				</div>
 			</div>
 		</figure>
-		<img ng-if="item.type == 'default'" ng-src="{{item.featuredImage}}" alt="{{item.title}}" itemprop="thumbnailUrl">
+		<img ng-if="item.type == 'default'" ng-src="{{item.featuredImage}}" alt="{{item.title}}" itemprop="image">
 	</figure>
 	<figcaption class="g--half g--last">
-		<h2>{{item.title}}</h2>
+		<h2 itemprop="headline">{{item.title}}</h2>
 		<p><strong>Client: </strong>{{item.client}}</p>
-		<p>{{item.caption}}</p>
+		<p itemprop="description">{{item.caption}}</p>
 		<div class="tags-container">
 			<span class="tag" ng-repeat="tag in item.tags" aria-label="{{tag}}">{{tag}}</span>
 		</div>
 	</figcaption>
+	<meta itemprop="author" content="Kim Wijk">
+	<meta itemprop="keywords" content="{{item.tags.join(', ')}}">
 </section>
